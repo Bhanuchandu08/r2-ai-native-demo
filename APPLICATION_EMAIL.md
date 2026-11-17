@@ -12,7 +12,7 @@ I'm applying for the AI-Native Full-Stack Engineer role. I work the way your pos
 I'm a Senior Salesforce Developer / Technical Lead (5+ years) with client-facing consulting delivery (MTX Group; NY State Board of Elections campaign-finance platform — Apex, LWC, Flows, REST, Experience Cloud, OCR pipelines, CyberArk SSO). I'm also a Ph.D. student in Artificial Intelligence. Salesforce + agentic delivery is the overlap I care about.
 
 **Something I built with an agent (spec + skill + hooks + tests + code):**  
-[PASTE_GITHUB_OR_REPO_LINK_HERE]
+https://github.com/Bhanuchandu08/r2-ai-native-demo
 
 Start with `SPEC.md`, then `CLAUDE.md`, `.cursor/skills/sf-rule-engine/SKILL.md`, and the stop hook under `.cursor/hooks/`. The feature is a contribution eligibility decision engine (matching-funds style rules) implemented TypeScript-first so the harness stays fast; `docs/salesforce-bridge.md` shows how I'd map the same SPEC onto Salesforce metadata and Apex adapters on a client engagement.
 
@@ -35,7 +35,7 @@ Applying for AI-Native Full-Stack Engineer. My day-to-day is already agent-prima
 
 Background: Senior Salesforce Technical Lead (Apex/LWC/integrations, public-sector consulting) + Ph.D. student in AI. Strong match for your Salesforce + agentic systems work.
 
-Agent-built sample (spec, skill, hooks, CI, code): [PASTE_LINK]  
+Agent-built sample (spec, skill, hooks, CI, code): https://github.com/Bhanuchandu08/r2-ai-native-demo  
 Please open SPEC.md and `.cursor/skills/` first — those are the point.
 
 Resume attached. Frisco, TX / US remote.
