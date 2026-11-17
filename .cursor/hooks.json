@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "description": "Agent environment hooks for this portfolio repo. Encode the same gates we use on client engagements: spec present, tests gate output.",
+  "hooks": {
+    "stop": [
+      {
+        "type": "command",
+        "command": ".cursor/hooks/pre-impl-check.sh",
+        "description": "Before stopping, require SPEC sections and green npm run ci"
+      }
+    ]
+  }
+}
